@@ -659,3 +659,13 @@ if __name__ == "__main__":
 ![image-20221201212457356](experiment_2/image-20221201212457356.png)
 
 ![image-20221201212447068](experiment_2/image-20221201212447068.png)
+
+如果你想使用GUI版本可以直接运行 `ui_widget.py`文件
+
+黄色代表搜索路径
+
+红色代表close表走过的所有结点
+
+![image-20221201223642661](experiment_2/image-20221201223642661.png)
+
+![image-20221201223658821](experiment_2/image-20221201223658821.png)
